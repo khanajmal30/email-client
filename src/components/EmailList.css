@@ -1,0 +1,8 @@
+/* EmailList.css */
+.email-list {
+    width: 30%;
+    border-right: 1px solid #CFD2DC; /* Border */
+    padding: 10px;
+    overflow-y: auto;
+  }
+  

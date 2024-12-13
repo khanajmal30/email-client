@@ -1,0 +1,24 @@
+/* EmailBody.css */
+.email-body {
+  width: 70%;
+  padding: 20px;
+}
+
+.email-body h2 {
+  font-size: 24px;
+  color: #636363; /* Text */
+}
+
+.email-body p {
+  font-size: 14px;
+  color: #636363; /* Text */
+}
+
+.email-body button {
+  background-color: #E54065; /* Accent */
+  color: #FFFFFF;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 20px;
+}

@@ -1,0 +1,15 @@
+/* App.css */
+.app {
+  background-color: #F4F5F9; /* Background */
+  color: #636363; /* Text */
+  font-family: Arial, sans-serif;
+}
+
+.main-content {
+  display: flex;
+}
+
+.error-message {
+  color: red;
+  margin: 10px 0;
+}

@@ -1,0 +1,17 @@
+/* Pagination.css */
+.pagination {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: #E1E4EA; /* Filter Button */
+  }
+  
+  .pagination button {
+    background-color: #E1E4EA; /* Filter Button */
+    color: #636363; /* Text */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin: 0 5px;
+  }
+  

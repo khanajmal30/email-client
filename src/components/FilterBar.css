@@ -1,0 +1,16 @@
+/* FilterBar.css */
+.filter-bar {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #E1E4EA; /* Filter Button */
+  }
+  
+  .filter-bar button {
+    background-color: #E1E4EA; /* Filter Button */
+    color: #636363; /* Text */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
